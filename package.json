@@ -1,0 +1,23 @@
+{
+  "name": "nyxen-reddinator",
+  "version": "1.0.0",
+  "description": "stupid janky bullshit",
+  "homepage": "https://github.com/NyxenApp/nyxen-reddinator#readme",
+  "bugs": {
+    "url": "https://github.com/NyxenApp/nyxen-reddinator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NyxenApp/nyxen-reddinator.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "author": "The Nyxen Team",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
